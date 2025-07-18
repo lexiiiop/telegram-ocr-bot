@@ -1,0 +1,7 @@
+pyrogram
+pytesseract
+Pillow
+tgcrypto
+python-dotenv
+autocorrect
+google-generativeai 
